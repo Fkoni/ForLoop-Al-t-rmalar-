@@ -1,2 +1,2 @@
-# ForLoop-Al-t-rmalar-
+# ForLoop-Alistirmalar-
 ForLoop Alıştırmaları
